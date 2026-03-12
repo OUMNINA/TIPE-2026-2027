@@ -19,8 +19,6 @@ sobriété-efficacité-optimisation
 comment rendre les batiments plus éconormes en energie tout en respectant l'environnement?
 Quels sont les critères pour choisir un bon isolant thermique et comment ces matériaux peuvent ils etre à la fois efficaces et durables
 
-2.Dans quelle mesure la végétalisation des surfaces urbaines permet-elle d’optimiser la régulation thermique des villes tout en limitant la consommation énergétique ?
-
 
 ## justification
 1.- Sobriété énergétique = consommer moins, réduire les besoins avant d’améliorer la performance technique.
@@ -32,11 +30,6 @@ Les bâtiments sont l’un des secteurs où l’efficacité énergétique a un i
 
 - Optimisation = rechercher la meilleure combinaison de solutions (techniques, économiques, environnementales) afin de réduire l’énergie tout en respectant des conditions comme le confort, le coût ou le climat.
 
-2.Sobriété : il s’agit de réduire la consommation d’énergie liée au refroidissement des bâtiments en limitant naturellement la hausse des températures urbaines (végétalisation, matériaux adaptés, gestion de l’eau).
-
-Efficacité : améliorer les performances thermiques de l’environnement urbain pour maintenir des températures plus basses sans augmenter la dépense énergétique.
-
-Optimisation : chercher la meilleure organisation possible des éléments urbains (bâtiments, espaces verts, matériaux) afin de maximiser le confort thermique tout en utilisant le moins de ressources possible.
 
 ## outils a utilisées
 - Maths
