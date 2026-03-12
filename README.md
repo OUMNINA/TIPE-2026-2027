@@ -16,10 +16,8 @@ sobriété-efficacité-optimisation
 
 ## problématique
 Comment optimiser l’isolation thermique d’un bâtiment afin de minimiser sa consommation énergétique tout en réduisant son impact environnemental sur l’ensemble de son cycle de vie ?
-
-Dans quelle mesure l’optimisation de l’isolation thermique permet-elle de concilier efficacité énergétique et sobriété environnementale dans le secteur du bâtiment ?
-
-Comment concevoir une isolation thermique efficace tout en limitant la quantité de matériaux et l’impact environnemental sur l’ensemble du cycle de vie du bâtiment ?
+comment rendre les batiments plus éconormes en energie tout en respectant l'environnement?
+Quels sont les critères pour choisir un bon isolant thermique et comment ces matériaux peuvent ils etre à la fois efficaces et durables
 
 
 ## justification
