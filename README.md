@@ -21,11 +21,11 @@ Quels sont les critères pour choisir un bon isolant thermique et comment ces ma
 
 
 ## justification
-1.- Sobriété énergétique = consommer moins, réduire les besoins avant d’améliorer la performance technique.
+1.- Sobriété = consommer moins, réduire les besoins avant d’améliorer la performance technique.
  Par exemple, limiter le chauffage, ajuster les comportements d’usage des habitants, réfléchir au dimensionnement des bâtiments comme levier de sobriété.
  penser l’habitat en minimisant ses besoins énergétiques avant toute optimisation technique.
 
-- Efficacité énergétique = consommer mieux pour produire le même service, notamment par une isolation thermique performante, des fenêtres à haute performance, une ventilation efficace etc.
+- Efficacité = consommer mieux pour produire le même service, notamment par une isolation thermique performante, des fenêtres à haute performance, une ventilation efficace etc.
 Les bâtiments sont l’un des secteurs où l’efficacité énergétique a un impact majeur sur la réduction globale des consommations et des émissions.
 
 - Optimisation = rechercher la meilleure combinaison de solutions (techniques, économiques, environnementales) afin de réduire l’énergie tout en respectant des conditions comme le confort, le coût ou le climat.
