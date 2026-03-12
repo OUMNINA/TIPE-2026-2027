@@ -35,7 +35,6 @@ Les bâtiments sont l’un des secteurs où l’efficacité énergétique a un i
 - Maths
 - physique
 - info: Python 
-- Autres outils (manuel)
 
 ## Auteur
 EL MOUCHRIF Oumnia
